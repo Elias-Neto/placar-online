@@ -1,0 +1,25 @@
+.button {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #2a3649;
+  height: fit-content;
+
+  font-size: 2.4rem;
+}
+
+.button.bg-red {
+  background-color: #fd6a46;
+}
+
+.button.bg-green {
+  background-color: #55cd55;
+}
+
+.button.rounded {
+  border-radius: 50%;
+}
+
