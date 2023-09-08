@@ -1,4 +1,4 @@
-# 🏆 Placar Online
+<h1 align="center">🏆 Placar Online</h1>
 
 Durante as partidas de vôlei com minha família estava rolando muitas desavenças por causa do placar. Muitas vezes simplesmente não lembramos qual é o placar atual do jogo 😂.
 
@@ -9,16 +9,16 @@ Diante disso, desenvolvi o Placar Online: uma plataforma para você 🫵 gerenci
 - [x] Adicionar e Remover Pontos 
 - [x] Finalizar Partida + Contagem de Vitórias
 - [x] Zerar Todos os Dados
-- [] Personalização de Time
-- [] Histórico de Jogos/Partidas
-- [] Tipos de Usuários (Admin e Jogadores)
-- [] Status de Jogadores (Vitórias e Pontos feitos)
+- [ ] Personalização de Time
+- [ ] Histórico de Jogos/Partidas
+- [ ] Tipos de Usuários (Admin e Jogadores)
+- [ ] Status de Jogadores (Vitórias e Pontos feitos)
 
 ## 🛠 Tecnologias usadas
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [ViteJS](https://vitejs.dev/)
-- [TypeScript](hhttps://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - Papel e Caneta 👍
